@@ -2,7 +2,7 @@ import os
 
 safeguard = input("Enter the safeguard password: ")
 
-if safeguard != "sus":
+if safeguard != "negawatt":
     quit()
 
 print("Injecting very dangerous and illegal malware...")
